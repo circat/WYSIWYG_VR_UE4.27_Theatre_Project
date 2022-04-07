@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/circat/WYSIWYG_VR_UE4.27_Theatre_Project">
-    <img src="ProjectLogo/WorkshopCover.jpg" alt="Logo" width="800" height="600">
+    <img src="ProjectLogo/WorkshopCover.jpg" alt="Logo" width="800" height="540">
   </a>
 
 <!-- PROJECT SHIELDS -->
