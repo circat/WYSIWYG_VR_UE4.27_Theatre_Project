@@ -11,13 +11,6 @@
 
 <h3 align="center">WYSIWYG - Virtual Production in Independent Performing Arts</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/circat/WYSIWYG_VR_UE4.27_Theatre_Project"><strong>Explore the docs »</strong></a>
-    <br />
-
-  </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
