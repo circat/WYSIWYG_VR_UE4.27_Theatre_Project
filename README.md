@@ -8,24 +8,6 @@
     <img src="ProjectLogo/WorkshopCover.jpg" alt="Logo" width="800" height="540">
   </a>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-
 
 <h3 align="center">WYSIWYG - Virtual Production in Independent Performing Arts</h3>
 
@@ -76,9 +58,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.circat-sound.de/wysiwyg)
+This project is about the possibilities of virtual production in performing arts.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+We create a virtual space and use a set up of different tools to enable a real time performance in VR. 
+
+This is a very exciting journey, thought we are at the beginning of real time VR experiences as a new aesthetic experience. 
+ 
+We present on this page different stages of the work and the tools we are working with and what virtual production can look like for performing arts. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
