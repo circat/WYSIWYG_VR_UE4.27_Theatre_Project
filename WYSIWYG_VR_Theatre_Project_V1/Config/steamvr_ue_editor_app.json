@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.assetsandrokoko-17155196.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "H:/WYSIWYG/UNREAL_FILES/WORKPROJECTS_UE4_27/AssetsandRokoko/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "AssetsandRokoko-17155196 [UE Editor]"
+				}
+			}
+		}
+	]
+}
