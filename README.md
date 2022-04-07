@@ -25,11 +25,9 @@
 
 This project is about the possibilities of virtual production in performing arts.
 
-We create a virtual space and use a set up of different tools to enable a real time performance in VR. 
+We created a virtual space and used a set up of different technics to enable a real time performance in VR. 
 
-This is a very exciting journey, thought we are at the beginning of real time VR experiences as a new aesthetic experience. 
- 
-We present on this page different stages of the work and the tools we are working with and what virtual production can look like for performing arts. 
+This was a very exciting journey, thought we are at the beginning of real time VR experiences as a new aesthetic experience. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
